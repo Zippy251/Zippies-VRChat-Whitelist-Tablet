@@ -18,3 +18,5 @@ How to use the tablet:
 1) Non-whitelisted users press the request button
 2) a whitelisted user accepts or denies the request
 3) You can scroll the whitelist with the arrows and kick people off with the deny button.
+
+Discord: riptide_1
